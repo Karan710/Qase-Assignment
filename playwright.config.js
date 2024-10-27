@@ -12,7 +12,7 @@ const config = {
     debug: false,
     testops: {
     api: {
-    token: '7663fe1d88b58f91a37f4370727ff222235304744153d958e6afbd6810ffbcec',
+    token: '', //Add your Token here.
     },
     project: 'DEMO', // Replace <DEMO> with your project code
     uploadAttachments: true,
